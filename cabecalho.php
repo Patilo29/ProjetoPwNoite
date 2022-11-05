@@ -31,7 +31,17 @@
         </a>
         </li>
 
-      
+        <li class="nav-item">
+          <a href="./usuarioCreate.php"class="nav-link">
+            Cadastro de usuário
+        </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="./usuarios.php"class="nav-link">
+            Lista de usuário
+        </a>
+        </li>
 
       </ul>
       
